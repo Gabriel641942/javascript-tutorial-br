@@ -1,12 +1,12 @@
-﻿# The JavaScript Tutorial
+﻿# Tutorial de JavaScript
 
-This repository hosts the content of the Modern JavaScript Tutorial, published at [https://javascript.info](https://javascript.info).
+Este repositório hospeda o conteúdo do Modern JavaScript Tutorial, publicado em [https://javascript.info](https://javascript.info).
 
-## Translations
+## Traduções
 
-(In alphabetical order):
+(Em ordem alfabética):
 
-| Language | Github | Translation leads | Translated (%) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Last&nbsp;Commit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Published |
+| Linguagem | Github | Líderes de Tradução | Traduzidas (%) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Último&nbsp;Commit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Publicadas |
 |----------|--------|-------------------|----------------|-------------|-----------|
 | Azerbaijani | [orkhan-huseyn/javascript-tutorial-az](https://github.com/orkhan-huseyn/javascript-tutorial-az) | @orkhan-huseyn | ![](http://translate-hook.javascript.info/stats/az.svg) | ![](https://img.shields.io/github/last-commit/orkhan-huseyn/javascript-tutorial-az.svg?maxAge=1800) |  |
 | Chinese | [xitu/javascript-tutorial-zh](https://github.com/xitu/javascript-tutorial-zh) | @leviding | ![](http://translate-hook.javascript.info/stats/zh.svg) | ![](https://img.shields.io/github/last-commit/xitu/javascript-tutorial-zh.svg?maxAge=1800) | [zh.javascript.info](https://zh.javascript.info) |
@@ -20,24 +20,24 @@ This repository hosts the content of the Modern JavaScript Tutorial, published a
 
 
 
-`*` – the previous version is published in Russian, need to backport/translate the new one from English.
+`*` – a versão anterior é publicada em russo, precisa corrigir/traduzir o novo do inglês.
 
-If you'd like to translate it into your language, please clone the repository, change its name to `javascript-tutorial-...` (by the language) and [create an issue](https://github.com/iliakan/javascript-tutorial-en/issues/new) for me to add you to the list.
+Se você gostaria de traduzi-lo para o seu idioma, por favor, clone o repositório, mude o nome para `javascript-tutorial-...` (pelo idioma) e [crie uma discussão](https://github.com/iliakan/javascript-tutorial-en/issues/new) para eu te adicionar à lista.
 
-You can edit the text in any editor (markdown-like syntax). The server to run the tutorial locally and see how it looks is at <https://github.com/iliakan/javascript-tutorial-server>.  
+Você pode editar o texto em qualquer editor (sintaxe semelhante a markdown). O servidor para executar o tutorial localmente e ver como fica está em <https://github.com/iliakan/javascript-tutorial-server>.
 
 
 
-## Structure
+## Estrutura
 
-Every chapter, article or a task has its folder.
+Cada capítulo, artigo ou tarefa tem sua pasta.
 
-The folder is named like `N-url`, where `N` is a number for the sorting purposes and `url` is the URL part with title of the material.
+A pasta é nomeada como `N-url`, onde `N` é um número para fins de ordenação e `url` é a parte URL com o título do material.
 
-The type of the material is defined by the file inside the folder:
+O tipo do material é definido pelo arquivo dentro da pasta:
 
-  - `index.md` stands for a chapter
-  - `article.md` stands for an article
-  - `task.md` stands for a task (solution must be provided in `solution.md` file aswell)
+  - `index.md` representa um capítulo
+  - `article.md` representa um artigo
+  - `task.md` representa uma tarefa (a solução também deve ser fornecida no arquivo `solution.md`)
 
-Each of these files starts from the `# Main header`.
+Cada um desses arquivos começa no `# Main header`.
