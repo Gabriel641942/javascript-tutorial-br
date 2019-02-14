@@ -1,6 +1,6 @@
 ﻿# Tutorial de JavaScript
 
-Este repositório hospeda o conteúdo do Modern JavaScript Tutorial, publicado em [https://javascript.info](https://javascript.info).
+Este repositório hospeda o conteúdo do Tutorial Moderno de JavaScript, publicado em [https://javascript.info](https://javascript.info).
 
 ## Traduções
 
