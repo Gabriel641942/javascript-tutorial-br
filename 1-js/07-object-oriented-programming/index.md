@@ -1,3 +1,3 @@
-# Objects, classes, inheritance
+# Objetos, classes, herança
 
-In this section we return to objects and learn them even more in-depth.
+Nesta seção, retornamos aos objetos e os aprendemos ainda mais profundamente.
